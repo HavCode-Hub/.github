@@ -6,12 +6,12 @@
 		</a>
 	</p>
 	<p>
-		<b>HavCode IDE</b>
+		<b>Elevate your coding experience with HavCode</b>
 	</p>
 </div>
 
 ## What is HavCode?
-A uniquely crafted IDE for Android. Code seamlessly anytime, anywhere, directly from your smartphone or tablet — built with a privacy-first, closed-source design.
+A uniquely crafted IDE for Android. Code seamlessly anytime, anywhere, directly from your smartphone or tablet — built with a privacy-first, closed-source.
 
 - [Discord Server]
 - [Guide]
