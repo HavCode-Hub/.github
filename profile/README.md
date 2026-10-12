@@ -13,14 +13,13 @@
 ## What is HavCode?
 A uniquely crafted IDE for Android. Code seamlessly anytime, anywhere, directly from your smartphone or tablet — featuring a privacy-first, fully customizable, closed-source environment backed by an active community.
 
-- [Discord Server]
+- [Discord Server] Our Discord Community meet other dreamy developers
 - [Guide]
 - [Releases]
 - [Website]
 - 
 
-[Discord Server]: https://velrosy.xyz/havenia/
+[DISCORD Server]: https://velrosy.xyz/havenia/ 
 [Guide]: https://velrosy.xyz/
 [Releases]: https://github.com/Havix-Studio/HavCode/releases
 [Website]: https://velrosy.xyz/
-[Website]
