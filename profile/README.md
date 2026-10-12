@@ -18,8 +18,6 @@ A uniquely crafted IDE for Android. Code seamlessly anytime, anywhere, directly 
 - [Releases]
 - [Website]
 
-Developer [here](https://github.com/Velrosy).
-
 [Discord Server]: https://velrosy.xyz/havenia/
 [Guide]: https://velrosy.xyz/
 [Releases]: https://github.com/Havix-Studio/HavCode/releases
