@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 	<br />
 	<p>
@@ -12,18 +10,17 @@
 	</p>
 </div>
 
-## What is HavCode ?
-It's IDE Empowering developers of all levels with a modern, fast, and feature-rich Android coding experience
-
+## What is HavCode?
+A uniquely crafted IDE for Android. Code seamlessly anytime, anywhere, directly from your smartphone or tablet — built with a privacy-first, closed-source design.
 
 - [Discord Server]
 - [Guide]
 - [Releases]
 - [Website]
 
-Our current project can be viewed [here][Project].
+Developer [here][https://github.com/Velrosy].
 
-[Discord server]: https://velrosy.xyz/havenia/
+[Discord Server]: https://velrosy.xyz/havenia/
 [Guide]: https://velrosy.xyz/
-[Releases]: https://velrosy.xyz/
+[Releases]: https://github.com/Havix-Studio/HavCode/releases
 [Website]: https://velrosy.xyz/
