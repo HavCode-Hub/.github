@@ -6,7 +6,7 @@
 		</a>
 	</p>
 	<p>
-		<b>Official organization for the HavCode Editor</b>
+		<b>Official organization for the HavCode Ide</b>
 	</p>
 </div>
 
