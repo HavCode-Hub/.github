@@ -11,3 +11,5 @@
 		<b>Official organization for the HavCode ecosystem</b>
 	</p>
 </div>
+
+## What is HavCode ?
