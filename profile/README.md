@@ -17,7 +17,6 @@ A uniquely crafted IDE for Android. Code seamlessly anytime, anywhere, directly 
 - [Guide]
 - [Releases]
 - [Website]
-- 
 
 [DISCORD Server]: https://velrosy.xyz/havenia/ 
 [Guide]: https://velrosy.xyz/
