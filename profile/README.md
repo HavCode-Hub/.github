@@ -27,5 +27,5 @@ A uniquely crafted IDE for Android. Code seamlessly anytime, anywhere, directly 
 &ensp;[<kbd> <br> Features <br> </kbd>](#)&ensp;
 &ensp;[<kbd> <br> Themes <br> </kbd>](#)&ensp;
 &ensp;[<kbd> <br> Extensions <br> </kbd>](#)&ensp;
-&ensp;[<kbd> <br> HavCode <br> </kbd>](#-HavCode)&ensp;
+&ensp;[<kbd> <br> HavCode <br> </kbd>](#HavCode)&ensp;
 <br><br><br></div>
