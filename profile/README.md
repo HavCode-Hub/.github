@@ -22,3 +22,10 @@ A uniquely crafted IDE for Android. Code seamlessly anytime, anywhere, directly 
 [Guide]: https://velrosy.xyz/
 [Releases]: https://github.com/Havix-Studio/HavCode/releases
 [Website]: https://velrosy.xyz/
+
+&ensp;[<kbd> <br> Install <br> </kbd>](#-installation)&ensp;
+&ensp;[<kbd> <br> Features <br> </kbd>](#-features)&ensp;
+&ensp;[<kbd> <br> Themes <br> </kbd>](#-the-themes)&ensp;
+&ensp;[<kbd> <br> Keybindings <br> </kbd>](#very-useful-keybindigs-to-know)&ensp;
+&ensp;[<kbd> <br> Wiki <br> </kbd>](https://github.com/gh0stzk/dotfiles/wiki)&ensp;
+<br><br><br></div>
