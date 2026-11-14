@@ -10,7 +10,7 @@
 	</p>
 </div>
 
-## What is HavCode?
+## HavCode
 A uniquely crafted IDE for Android. Code seamlessly anytime, anywhere, directly from your smartphone or tablet — featuring a privacy-first, fully customizable, closed-source environment backed by a passionate, creative community.
 
 - [Discord Server] Our Discord Community - soon
@@ -27,5 +27,5 @@ A uniquely crafted IDE for Android. Code seamlessly anytime, anywhere, directly 
 &ensp;[<kbd> <br> Features <br> </kbd>](#)&ensp;
 &ensp;[<kbd> <br> Themes <br> </kbd>](#)&ensp;
 &ensp;[<kbd> <br> Extensions <br> </kbd>](#)&ensp;
-&ensp;[<kbd> <br> HavCode <br> </kbd>](#-What-is-HavCode?)&ensp;
+&ensp;[<kbd> <br> HavCode <br> </kbd>](#-HavCode)&ensp;
 <br><br><br></div>
